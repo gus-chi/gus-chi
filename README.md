@@ -2,8 +2,9 @@
 - 🔭 Atualmente estou matriculado na Unifesp no curso de Ciência da Computação
 - 🌱 Interesse na área de processamento digital de imagens e visão computacional
 - 💻 Em relacionamento sério com Linux
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />          
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />  
+<i class="devicon-c-plain colored"></i>
+<i class="devicon-linux-plain colored"></i>
           
 <!--
 **gus-chi/gus-chi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
