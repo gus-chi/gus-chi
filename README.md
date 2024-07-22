@@ -2,8 +2,8 @@
 - 🔭 Atualmente estou matriculado na Unifesp no curso de Ciência da Computação
 - 🌱 Interesse na área de processamento digital de imagens e visão computacional
 - 💻 Em relacionamento sério com Linux
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
           
           
 <!--
