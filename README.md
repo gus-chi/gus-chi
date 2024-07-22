@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Oi 👋 Eu sou o Gustavo Chiato
+- 🔭 Atualmente estou matriculado na Unifesp no curso de Ciência da Computação
+- 🌱 Interesse na área de processamento digital de imagens e visão computacional
 <!--
 **gus-chi/gus-chi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
