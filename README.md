@@ -6,10 +6,10 @@
 <a href="https://br.linkedin.com/in/gustavo-chiato-3465461a2" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-
+- 💻 HTML | CSS | JavaScript
 - 🔭 Atualmente estou matriculado na Unifesp no curso de Ciência da Computação  
 - 🌱 Interesse na área de Data Science, Digital Image Processing e Computer Vision  
-- 💻 Em relacionamento sério com Linux
+- 🐧 Em relacionamento sério com Linux
   
 <div style="display: inline_block"><br>
 <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
